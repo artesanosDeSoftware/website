@@ -1,0 +1,43 @@
+baseurl = "http://artesanos.de/software"
+languageCode = "en-us"
+title = "Artesanos de Software"
+
+pygmentsuseclasses = true
+disqusShortname = ""
+
+theme = "hyde-x"
+paginate = 5
+
+#
+# All parameters below here are optional and can be mixed and matched.
+#
+[params]
+    # Used when a given page doesn't set its own.
+    defaultDescription = "Your default page description"
+    defaultKeywords = "your,default,page,keywords"
+
+    # Changes sidebar background and link/accent colours.
+    # See below for more colour options.
+    # This also works: "theme-base-08 layout-reverse", or just "layout-reverse".
+    theme = "theme-base-0f"
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "github"
+
+    # Displays under the author name in the sidebar, keep it short.
+    # You can use markdown here.
+    tagline = "El lugar de los que se preocupan por hacer bien software."
+
+    # Metadata used to drive integrations.
+    #"Your Google+ profile ID"
+    googleAuthorship = ""
+    googleAnalytics = "Your Google Analytics tracking code"
+    gravatarHash = "add6c9d541e41be1a8b37b9a716beaa9"
+
+    # Sidebar social links, these must be full URLs.
+    github = "http://www.github.com/artesanosDeSoftware"
+    linkedin = ""
+    googleplus = ""
+    facebook = "https://www.facebook.com/artesanosDeSoftware"
+    twitter = "http://www.twitter.com/artesano_soft"
