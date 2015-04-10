@@ -5,7 +5,7 @@ title = "Artesanos de Software"
 pygmentsuseclasses = true
 disqusShortname = "artesanosdesoftware"
 
-theme = "hyde-x"
+theme = "default"
 paginate = 5
 
 #
