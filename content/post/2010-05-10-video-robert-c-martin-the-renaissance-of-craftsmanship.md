@@ -1,6 +1,6 @@
 ---
 title: 'Video: Robert C. Martin, The Renaissance of Craftsmanship'
-author: Domingo Suarez Torres
+author: domix
 layout: post
 date: 2010-05-10
 url: /2010/05/10/video-robert-c-martin-the-renaissance-of-craftsmanship/
@@ -10,13 +10,11 @@ tags:
   - filosofia
   - keynote
   - Video
+  - 'Uncle Bob'
+  - vimeo
 ---
-Este video es muy bueno sobre la Artesania de Software
+Este video es muy bueno sobre Software Craftsmanship
 
-[viddler id=6b61223d&w=545&h=381]
+<iframe id="viddler-6b61223d" src="//www.viddler.com/embed/6b61223d/?f=1&autoplay=0&player=full&disablebackwardseek=false&disableseek=false&disableforwardseek=false&make_responsive=false&loop=false&nologo=false&hd=false" width="500" height="355" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 Disfrutenlo y por favor comentemos al respecto
-
-<div id="wp_fb_like_button" style="margin:5px 0;float:none;height:100px;">
-  <fb:like href="http://artesanos.de/software/2010/05/10/video-robert-c-martin-the-renaissance-of-craftsmanship/" send="false" layout="like" width="450" show_faces="true" font="arial" action="" colorscheme="light"></fb:like>
-</div>

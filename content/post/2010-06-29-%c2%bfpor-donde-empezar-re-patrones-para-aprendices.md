@@ -1,20 +1,16 @@
 ---
 title: '¿Por dónde empezar? Re: Patrones para aprendices'
-author: Agustín Ramos
+author: MachinesAreUs
 layout: post
 date: 2010-06-29
-excerpt: |
-  A la pregunta "¿Cómo me convierto en un artesano de software?", la respuesta inmediata es "conviértete en un aprendiz". La siguiente pregunta es: "¿Cómo me convierto en un aprendiz?"
-  
-  Afortunadamente Dave Hoover y Adewale Oshineye han elaborado una guía para el aspirante a recorrer el nada fácil camino de convertirse en artesano de software: Apprenticeship Patterns, publicado por O'Reilly pero también publicado en linea bajo la licencia de Crative Commons.
-url: /2010/06/29/%c2%bfpor-donde-empezar-re-patrones-para-aprendices/
+url: /2010/06/29/por-donde-empezar-re-patrones-para-aprendices/
 categories:
   - Idea
   - Libro
 ---
 A la pregunta **&#8220;¿Cómo me convierto en un artesano de software?&#8221;**, la respuesta inmediata es &#8220;conviértete en un aprendiz&#8221;. La siguiente pregunta es: **&#8220;¿Cómo me convierto en un aprendiz?&#8221;**
 
-Afortunadamente Dave Hoover y Adewale Oshineye han elaborado una guía para el aspirante a recorrer el nada fácil camino de convertirse en artesano de software: [Apprenticeship Patterns][1], publicado por O&#8217;Reilly pero también publicado en linea bajo la licencia de Crative Commons.
+Afortunadamente Dave Hoover y Adewale Oshineye han elaborado una guía para el aspirante a recorrer el nada fácil camino de convertirse en artesano de software: [Apprenticeship Patterns][1], publicado por O&#8217;Reilly pero también publicado en linea bajo la licencia de Creative Commons.
 
 <p style="text-align: center;">
   <img class="aligncenter" title="El camino largo para convertirse en artesano" src="http://apprenticeship-patterns.labs.oreilly.com/figs/web/ch03_opener.png" alt="Extraída del Capítulo 3: Walking the long road" width="504" height="407" />
@@ -32,10 +28,7 @@ Por último, me gustaría señalar que muchos profesionales ya bien forjados, ha
 
 &#8211; Agus (@MachinesAreUs)
 
-<div id="wp_fb_like_button" style="margin:5px 0;float:none;height:100px;">
-  <fb:like href="http://artesanos.de/software/2010/06/29/%c2%bfpor-donde-empezar-re-patrones-para-aprendices/" send="false" layout="like" width="450" show_faces="true" font="arial" action="" colorscheme="light"></fb:like>
-</div>
 
- [1]: http://apprenticeship-patterns.labs.oreilly.com/ "Apprenticeship Patterns"
- [2]: http://github.com/aslakhellesoy "aslak.hellesoy | Chief Scientist of BEKK Consulting, creator of Cucumber"
- [3]: http://wiki.github.com/aslakhellesoy/cucumber/ "Cucumber"
+ [1]: https://www.goodreads.com/book/show/5608045-apprenticeship-patterns
+ [2]: http://github.com/aslakhellesoy
+ [3]: https://cukes.info/

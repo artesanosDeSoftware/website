@@ -1,16 +1,18 @@
 ---
 title: 'Video: Filling the Professionalism Gap, Craftsmanship and Policy'
-author: Domingo Suarez Torres
+author: domix
 layout: post
 date: 2010-06-07
 url: /2010/06/07/video-filling-the-professionalism-gap-craftsmanship-and-policy/
 categories:
-  - Sin categoría
+  - Video
+tags:
+  - keynote
+  - Video
+  - 'Uncle Bob'
+  - parleys
 ---
 Otra excelente charla de Robert C. Martin sobre Craftsmanship, en esta ocasión desde el Devoxx &#8217;09
 
 
-
-<div id="wp_fb_like_button" style="margin:5px 0;float:none;height:100px;">
-  <fb:like href="http://artesanos.de/software/2010/06/07/video-filling-the-professionalism-gap-craftsmanship-and-policy/" send="false" layout="like" width="450" show_faces="true" font="arial" action="" colorscheme="light"></fb:like>
-</div>
+<div data-parleys-presentation="craftsmanship-policy" style="width:100%;height:300px"><script type = "text/javascript" src="//parleys.com/js/parleys-share.js"></script><a href="https://www.parleys.com/play/craftsmanship-policy">Watch on Parleys.com</a></div>
