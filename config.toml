@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Artesanos de Software"
 
 pygmentsuseclasses = true
-disqusShortname = ""
+disqusShortname = "artesanosdesoftware"
 
 theme = "hyde-x"
 paginate = 5
@@ -13,8 +13,8 @@ paginate = 5
 #
 [params]
     # Used when a given page doesn't set its own.
-    defaultDescription = "Your default page description"
-    defaultKeywords = "your,default,page,keywords"
+    defaultDescription = "Artesanos de Software - El lugar de los que se preocupan por hacer bien software"
+    defaultKeywords = "craftsmanship"
 
     # Changes sidebar background and link/accent colours.
     # See below for more colour options.
@@ -32,7 +32,7 @@ paginate = 5
     # Metadata used to drive integrations.
     #"Your Google+ profile ID"
     googleAuthorship = ""
-    googleAnalytics = "Your Google Analytics tracking code"
+    googleAnalytics = "UA-61772215-1"
     gravatarHash = "add6c9d541e41be1a8b37b9a716beaa9"
 
     # Sidebar social links, these must be full URLs.
