@@ -22,6 +22,7 @@
 
     </span>
     {{ .Content }}
+    {{ template "theme/partials/next_prev.html" . }}
   </div>
   {{ if .Site.DisqusShortname }}<div id="disqus_thread"></div>{{ end }}
 </div>
