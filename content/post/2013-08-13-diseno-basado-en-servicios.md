@@ -8,17 +8,15 @@ categories:
   - Video
 tags:
   - Barcamp
-  - Diseño
+  - 'Software design'
   - Servicios
+  - SOA
 ---
-¡Hola que tal! Posteo un nuevo video, la continuación del Barcamp de artesanos de software – @artesano\_soft, una charla sobre “Diseño basado en servicios” realizada por nuestro compañero Marco Antonio Muñiz – @\_marKox. En esta sesión se plantearon los casos cuando los servicios son los elementos que dirigen el diseño de un aplicación. Más que una ponencia o una presentación, es una conversación grupal que abarca temas de diseño y ética profesional en el desarrollo de software.
+¡Hola que tal! Posteo un nuevo video, la continuación del Barcamp de [Artesanos de software][1], una charla sobre “Diseño basado en servicios” realizada por nuestro compañero [Marco Antonio Muñiz][2]. En esta sesión se plantearon los casos cuando los servicios son los elementos que dirigen el diseño de un aplicación. Más que una ponencia o una presentación, es una conversación grupal que abarca temas de diseño y ética profesional en el desarrollo de software.
 
 ¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar.
 
-&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YowGSXShDUc" frameborder="0" allowfullscreen></iframe>
 
-
-
-<div id="wp_fb_like_button" style="margin:5px 0;float:none;height:100px;">
-  <fb:like href="http://artesanos.de/software/2013/08/13/diseno-basado-en-servicios/" send="false" layout="like" width="450" show_faces="true" font="arial" action="" colorscheme="light"></fb:like>
-</div>
+ [1]: http://twitter.com/artesano_soft
+ [2]: http://twitter.com/_markox
