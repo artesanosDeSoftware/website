@@ -69,7 +69,7 @@ Si deseas participar, has _fork_, agrega tu entrada y manda un _Pull Request_.
 
 - Se recomienda que el nombre del archivo no incluya caracteres que no sean _URL encoded_
 
-## Front matter
+### Front matter
 
 Un _feature_ muy interesante de Hugo es el [_Front Matter_][5], Hugo agrega al inicio del archivo del _post_ algo parecido a lo siguiente:
 
@@ -103,10 +103,25 @@ Se debe agregar la información sobre el _post_ lo más detallada posible. Un ej
   ---
   ```
 
-### Autoría
+#### Autoría
 
 Es muy importante saber quien es el autor del _post_, es por ello es importante que se agregue la información en el campo _author_ del _front matter_. Tenemos pendiente #5 una página mejor para la información del autor.
 
+
+#### URL
+
+En el _front matter_ se debe poner la información de la URL usando el siguiente patrón:
+
+  ```
+  url: {año}/{mes}/{día}/{slug}
+  ```
+
+  Ejemplo
+
+  ```
+  url: /2013/11/14/1er-barcamp-de-testing-en-la-ciudad-de-mexico/
+  ```
+  
  [1]: http://gohugo.io
  [2]: http://localhost:1313/software
  [3]: http://daringfireball.net/projects/markdown/
