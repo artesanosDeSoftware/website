@@ -3,9 +3,6 @@
   <ul class="posts">
   {{ range .Data.Pages }}
     <li><a href="{{ .Permalink }}">{{ .Title }}</a>
-    <div>
-    Por {{ .Params.author }}
-    </div>
     {{ if isset .Params "categories" }}
     &middot;
     {{ $baseUrl := .Site.BaseUrl }}

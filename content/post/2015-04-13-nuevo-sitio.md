@@ -6,6 +6,7 @@ tags:
   - anuncio
 title: Nuevo sitio
 author: domix
+url: /2015/04/13/nuevo-sitio/
 ---
 
 Pues tenemos nuevo sitio, hemos abandonado Wordpress en favor de [Hugo][1]. Con Wordpress tuvimos demasiados ataques, nos inyectaban código y muchas veces tuvimos que actualizar y limpiar casi a mano la instalación de Wordpress.
