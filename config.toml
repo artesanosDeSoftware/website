@@ -1,3 +1,4 @@
+metaDataFormat = "yaml"
 baseurl = "http://artesanos.de/software"
 languageCode = "en-us"
 title = "Artesanos de Software"

@@ -6,7 +6,7 @@ Ahora el sitio de construye con [Hugo][1] que realmente necesita archivos [Markd
 
 También empezamos a usar Disqus para los comentarios.
 
-Si deseas participar, has fork, agrega tu entrada y manda un Pull Request.
+Si deseas participar, has _fork_, agrega tu entrada y manda un _Pull Request_.
 
 
 ## Como correr el sitio en tu computadora
@@ -19,7 +19,7 @@ Si deseas participar, has fork, agrega tu entrada y manda un Pull Request.
     rm -rf public && hugo server --watch --verbose 
     ```
     
-    Tambien puedes ejecutar el siguiente shell script:
+    Tambien puedes ejecutar el siguiente _shell script_:
     
     ```bash
     ./run.sh
@@ -38,7 +38,7 @@ Si deseas participar, has fork, agrega tu entrada y manda un Pull Request.
     hugo new post/el-nombre-de-tu-nueva-entrada.md
     ```
     
-    > Es importante que el archivo termine con la extensión **.md**
+    > Es importante que el archivo termine con la extensión __.md__
     
 3. El archivo de tu entrada se localizara en:
 
@@ -52,8 +52,8 @@ Si deseas participar, has fork, agrega tu entrada y manda un Pull Request.
 
 ## Reglas para crear nuevas entradas
 
-* Las entradas deben crearse dentro del directorio  _./content/post/_
-* El nombre del archivo debe seguir la siguiente estructura:
+- Las entradas deben crearse dentro del directorio  _./content/post/_
+- El nombre del archivo debe seguir la siguiente estructura:
 
    ```
    {año}-{mes}-{dia}-{nombre}.md
@@ -67,11 +67,51 @@ Si deseas participar, has fork, agrega tu entrada y manda un Pull Request.
    
    > el nombre del archivo se sugiere que sea breve, pero que indique claramente sobre que se trata.
 
+- Se recomienda que el nombre del archivo no incluya caracteres que no sean _URL encoded_
+
+## Front matter
+
+Un _feature_ muy interesante de Hugo es el [_Front Matter_][5], Hugo agrega al inicio del archivo del _post_ algo parecido a lo siguiente:
+
+
+  ```yaml
+  ---
+  categories:
+    - category
+  date: 2015-04-12T14:02:40-05:00
+  layout: post
+  tags:
+    - tag
+  title: mi-post
+  ---
+  ```
+  
+Se debe agregar la información sobre el _post_ lo más detallada posible. Un ejemplo de ello:
+
+  ```yaml
+  ---
+  title: 1er BarCamp de Testing en la Ciudad de México
+  author: cggg88
+  layout: post
+  date: 2013-11-14
+  url: /2013/11/14/1er-barcamp-de-testing-en-la-ciudad-de-mexico/
+  categories:
+    - Evento
+  tags:
+    - barcamp
+    - testing
+  ---
+  ```
+
+### Autoría
+
+Es muy importante saber quien es el autor del _post_, es por ello es importante que se agregue
 
  [1]: http://gohugo.io
  [2]: http://localhost:1313/software
  [3]: http://daringfireball.net/projects/markdown/
  [4]: http://artesanos.de/software
+ [5]: http://gohugo.io/content/front-matter/
  
  
  
