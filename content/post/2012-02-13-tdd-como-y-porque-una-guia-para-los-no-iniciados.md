@@ -5,20 +5,20 @@ layout: post
 date: 2012-02-13
 url: /2012/02/13/tdd-como-y-porque-una-guia-para-los-no-iniciados/
 categories:
-  - Sin categoría
+  - Article
+tags:
+  - tdd
+  - Extreme Programming
 ---
+
+## Introducción
+
+Esta es mi primera contribución para _Artesanos de Software_.
+
+Soy un desarrollador de software "de la vieja escuela", por decirlo de alguna manera. Hace años, pensaba que tenía bastante dominado este asunto de la programación, hasta que me topé con [_Extreme Programming_][1]</a> y todo el ecosistema de Métodos Ágiles que se ha desarrollado desde entonces. Para mi, todo cambió desde entonces y me dí cuenta de lo poco que sé en realidad. He estado practicando la disciplina del Desarrollo Dirigido por Pruebas o <acronym title="Test Driven Development">TDD</acronym> ahora si y ahora no por los últimos ocho años. Quienes me conozcan, sabrán que no ha sido ni por mucho un proceso fácil ni mucho menos rápido. Sin embargo, si solo pudiera lograr que todos los desarrolladores de mi equipo adoptaran una sola práctica de <acronym title="Extreme Programming">XP</acronym>, esa sería <acronym title="Test Driven Development">TDD</acronym>.
+
 <div>
-  <h2>
-    Introducción
-  </h2>
   
-  <p>
-    Esta es mi primera contribución para <em>Artesanos de Software</em>.
-  </p>
-  
-  <p>
-    Soy un desarrollador de software &#8220;de la vieja escuela&#8221;, por decirlo de alguna manera. Hace años, pensaba que tenía bastante dominado este asunto de la programación, hasta que me topé con <a title="An agile software development resourse" href="http://xprogramming.com/" target="_blank"><em>Extreme Programming</em></a> y todo el ecosistema de Métodos Ágiles que se ha desarrollado desde entonces. Para mi, todo cambió desde entonces y me dí cuenta de lo poco que sé en realidad. He estado practicando la disciplina del Desarrollo Dirigido por Pruebas o <acronym title="Test Driven Development">TDD</acronym> ahora si y ahora no por los últimos ocho años. Quienes me conozcan, sabrán que no ha sido ni por mucho un proceso fácil ni mucho menos rápido. Sin embargo, si solo pudiera lograr que todos los desarrolladores de mi equipo adoptaran una sola práctica de <acronym title="Extreme Programming">XP</acronym>, esa sería <acronym title="Test Driven Development">TDD</acronym>.
-  </p>
   
   <p>
     Las excusas abundan, es simplemente demasiado fácil ceder y dejar de hacerlo. Desde los clásicos <em>&#8220;en mi empresa no me lo permiten&#8221;</em> y <em>&#8220;mi jefe dice que me pagan por escribir funcionalidad, no pruebas&#8221;</em> hasta los no tan infrecuentes <em>&#8220;las pruebas son trabajo de QA, no mio&#8221;</em> o <em>&#8220;esta porquería es una mi3rd@, ¡es imposible de probar!&#8221;</em>. Lo sé porque yo mismo he estado en esas situaciones, he dado las mismas excusas y ni una sola vez puedo decir que el resultado haya sido positivo para mi o para el proyecto.
@@ -550,6 +550,5 @@ Ran 2 test in 0.000s
   </p>
 </div>
 
-<div id="wp_fb_like_button" style="margin:5px 0;float:none;height:100px;">
-  <fb:like href="http://artesanos.de/software/2012/02/13/tdd-como-y-porque-una-guia-para-los-no-iniciados/" send="false" layout="like" width="450" show_faces="true" font="arial" action="" colorscheme="light"></fb:like>
-</div>
+
+ [1]: http://xprogramming.com/

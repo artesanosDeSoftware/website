@@ -28,7 +28,8 @@ paginate = 5
 
     # Displays under the author name in the sidebar, keep it short.
     # You can use markdown here.
-    tagline = "El lugar de los que se preocupan por hacer bien software."
+    # lugar de los que desarrollan bien el software
+    tagline = "El lugar donde importa hacer bien software."
 
     # Metadata used to drive integrations.
     #"Your Google+ profile ID"
