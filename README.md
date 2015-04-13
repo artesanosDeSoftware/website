@@ -105,7 +105,7 @@ Se debe agregar la información sobre el _post_ lo más detallada posible. Un ej
 
 ### Autoría
 
-Es muy importante saber quien es el autor del _post_, es por ello es importante que se agregue
+Es muy importante saber quien es el autor del _post_, es por ello es importante que se agregue la información en el campo _author_ del _front matter_. Tenemos pendiente #5 una página mejor para la información del autor.
 
  [1]: http://gohugo.io
  [2]: http://localhost:1313/software
