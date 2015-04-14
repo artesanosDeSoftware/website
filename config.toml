@@ -24,7 +24,7 @@ paginate = 5
 
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
-    highlight = "github"
+    highlight = "tomorrow-night"
 
     # Displays under the author name in the sidebar, keep it short.
     # You can use markdown here.
