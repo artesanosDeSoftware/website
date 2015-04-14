@@ -1,6 +1,6 @@
 ---
 title: 'TDD Cómo y porqué: Una guía para los no iniciados'
-author: Alfredo Chavez
+author: alfredochv
 layout: post
 date: 2012-02-13
 url: /2012/02/13/tdd-como-y-porque-una-guia-para-los-no-iniciados/
