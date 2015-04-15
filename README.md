@@ -4,15 +4,15 @@ Este es el código fuente del sitio de [Artesanos de Software][4]. Antes usábam
 
 Ahora el sitio de construye con [Hugo][1] que realmente necesita archivos [Markdown][3] y la definición de plantillas para generar un sitio estático.
 
-También empezamos a usar Disqus para los comentarios.
+También empezamos a usar [Disqus][6] para los comentarios.
 
-Si deseas participar, has _fork_, agrega tu entrada y manda un _Pull Request_.
-
+**Si deseas participar, has _fork_, agrega tu entrada y manda un _Pull Request_.**
 
 ## Como correr el sitio en tu computadora
 
 1. Descarga los fuentes del proyecto
 2. Instala [Hugo][1]
+  - Asegurate que la versión de Hugo sea por lo menos la _0.13_, de no ser así y si instalaste con brew, entonces haz un `brew update` e intenta de nuevo la instalación. 
 3. En la raiz del proyecto en una terminal ejecuta:
 
     ```bash
@@ -40,7 +40,7 @@ Si deseas participar, has _fork_, agrega tu entrada y manda un _Pull Request_.
     
     > Es importante que el archivo termine con la extensión __.md__
     
-3. El archivo de tu entrada se localizara en:
+ 3. El archivo de tu entrada se localizara en:
 
    ```
    ./content/post/el-nombre-de-tu-nueva-entrada.md
@@ -48,7 +48,7 @@ Si deseas participar, has _fork_, agrega tu entrada y manda un _Pull Request_.
    
    Ahora  puedes editarlo usando [Markdown][3]
 
-4. Ejecutar el sitio, revisa la sección anterior. Ya debería estar disponible tu nueva entrada.
+ 4. Ejecutar el sitio, revisa la sección anterior. Ya debería estar disponible tu nueva entrada.
 
 ## Reglas para crear nuevas entradas
 
@@ -68,6 +68,7 @@ Si deseas participar, has _fork_, agrega tu entrada y manda un _Pull Request_.
    > el nombre del archivo se sugiere que sea breve, pero que indique claramente sobre que se trata.
 
 - Se recomienda que el nombre del archivo no incluya caracteres que no sean _URL encoded_
+- Cualquier entrada de Artesanía de software es bienvenida, anímate y mándanos tu pull request !!!
 
 ### Front matter
 
