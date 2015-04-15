@@ -128,6 +128,5 @@ En el _front matter_ se debe poner la información de la URL usando el siguiente
  [3]: http://daringfireball.net/projects/markdown/
  [4]: http://artesanos.de/software
  [5]: http://gohugo.io/content/front-matter/
- 
- 
+ [6]: https://disqus.com/
  
