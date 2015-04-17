@@ -2,8 +2,8 @@
 title: Ser un buen tester...
 author: neodevelop
 layout: post
-date: 2015-04-16
-url: /2015/04/16/ser-un-buen-tester/
+date: 2015-04-17
+url: /2015/04/17/ser-un-buen-tester/
 categories:
 - Testing
 tags:
@@ -28,17 +28,18 @@ Sería de mucha ayuda que dichos casos los pusiera en alguna matriz, en un bloc 
 
 Además:
 
-> "Hundreds of tests, dozens of test runs… Nothing surfaces bugs quicker than a fucking user." **@danveloper**
+<blockquote class="twitter-tweet" lang="es"><p>Hundreds of tests, dozens of test runs… Nothing surfaces bugs quicker than a fucking user.</p>&mdash; Dan Woods (@danveloper) <a href="https://twitter.com/danveloper/status/586295764856504320">abril 9, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Creo también que ser un buen tester requiere de un esfuerzo adicional
 
 Si bien probar alguna aplicación de forma superficial no requiere mayor esfuerzo, incluso no requiere más que de _saber leer_, también es cierto que las categorías y niveles de las pruebas demanda de un conocimiento más particular, en específico de herramientas especializadas que nos den datos, variantes y evidencias que podamos analizar a posterior de forma rápida; y aquí aludo un videocast en donde se comentó algo como:
 
-> "Para ser un buen tester necesitas ser un buen programador..." **@Chrix**
+> "Para ser un buen tester necesitas ser un buen programador..." **@Chrix2**
 
 No recuerdo si la cita es textual, pero en la idea principal lo es; y efectivamente si necesitas profundizar y sobre todo automatizar ciertos flujos elementos y comenzar a hacer Integración Continua entonces hay mucho que tenemos que aprender.
 
-Cada plataforma o lenguaje ofrece un conjunto de elementos que permiten crear Tests de diferentes tipos y es ahí donde creo que esta la oportunidad, y también donde creo que el camino requiere de un esfuerzo mayor, y no sólo _saber leer_(IMHO).
+Cada plataforma o lenguaje ofrece un conjunto de elementos que permiten crear Tests de diferentes tipos y es ahí donde creo que esta la oportunidad, y también donde creo que el camino requiere de un esfuerzo mayor, y no sólo _saber leer_ (IMHO).
 
 ### Al final, el objetivo es probar
 
