@@ -8,8 +8,8 @@ categories:
 - Testing
 tags:
 - testing
-- técnicas
-- métodos
+- tecnicas
+- metodos
 ---
 
 ## ¿Qué se necesita para ser un buen tester?
