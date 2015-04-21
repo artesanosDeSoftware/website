@@ -5,7 +5,9 @@ layout: post
 date: 2011-08-31
 url: /2011/08/31/%c2%bfque-nos-ofrecen-las-comunidades/
 categories:
-  - Sin categoría
+  - Article
+tags:
+  - comunidad
 ---
 Hace ya mucho tiempo escribí una entrada acerca de este tema, que considero puede entrar de nuevo en este contexto, aquí les pongo el texto de lo que escribí en su momento:
 
@@ -37,9 +39,6 @@ De cada uno de estos nos hemos llevado muy buenas experiencias, y precisamente e
 
 Espero que al igual que yo, los lectores y desarrolladores encuentren un interés en ser parte de comunidades, y por supuesto, en springhispano.org y grails.org.mx serán siempre bienvenidos…
 
-<div id="wp_fb_like_button" style="margin:5px 0;float:none;height:100px;">
-  <fb:like href="http://artesanos.de/software/2011/08/31/%c2%bfque-nos-ofrecen-las-comunidades/" send="false" layout="like" width="450" show_faces="true" font="arial" action="" colorscheme="light"></fb:like>
-</div>
 
  [1]: http://www.upaep.mx/
  [2]: http://twitter.com/neodevelop

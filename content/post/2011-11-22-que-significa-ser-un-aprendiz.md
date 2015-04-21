@@ -20,7 +20,3 @@ tags:
 > "La situación fundamental de aprendizaje es una en la cual una persona aprende ayudando a quien realmente sabe que es lo que esta haciendo"
 >
 > <cite>Cristopher Alexander "A Pattern Language"</cite>
-
-<div id="wp_fb_like_button" style="margin:5px 0;float:none;height:100px;">
-  <fb:like href="http://artesanos.de/software/2011/11/22/%c2%bfque-significa-ser-un-aprendiz/" send="false" layout="like" width="450" show_faces="true" font="arial" action="" colorscheme="light"></fb:like>
-</div>

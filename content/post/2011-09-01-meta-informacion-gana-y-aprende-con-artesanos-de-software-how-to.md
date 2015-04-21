@@ -6,168 +6,66 @@ date: 2011-09-01
 excerpt: Como crear un artículo para participar en "Gana y aprende con Artesanos de Software"
 url: /2011/09/01/meta-informacion-gana-y-aprende-con-artesanos-de-software-how-to/
 categories:
-  - Sin categoría
+  - Article
 tags:
-  - gana y aprende
+  - 'gana y aprende'
   - meta
 ---
-<div>
-  <span style="font-family: 'trebuchet ms', geneva">Como todo mundo ya sabe&#8230; ehem y si no pues acá lo repito, este sitio está organizando una dinámica para compartir el conocimiento de los que nos dedicamos a esta industria y que consiste en escribir un artículo y tener la posibilidad de ganar ( además de la satisfacción de contribuir claro está ) algún premio como un libro.</span>
-</div>
 
-<div>
-</div>
+Como todo mundo ya sabe... ehem y si no pues acá lo repito, este sitio está organizando una dinámica para compartir el conocimiento de los que nos dedicamos a esta industria y que consiste en escribir un artículo y tener la posibilidad de ganar ( además de la satisfacción de contribuir claro está ) algún premio como un libro.
 
-<div>
-</div>
+Para más información y detalles ver la convocatoria:
 
-<div>
-  <span style="font-family: 'trebuchet ms', geneva">Para más información y detalles ver la convocatoria:</span>
-</div>
+[Gana y aprede con Artesanos de Software][1]
 
-<div>
-  <span style="font-family: 'trebuchet ms', geneva"><br /> </span>
-</div>
 
-<div>
-  <a href="http://artesanos.de/software/2011/08/09/gana-y-aprende-con-artesanos-de-software"><span style="font-family: 'trebuchet ms', geneva">Gana y aprede con Artesanos de Software</span></a>
-</div>
-
-<div>
-  <span style="font-family: 'trebuchet ms', geneva"><br /> </span>
-</div>
 
 <div>
   <span style="font-family: 'trebuchet ms', geneva"><img src="http://i.stack.imgur.com/UXK3B.png" alt="Gana y aprende" width="600" height="411" /></span>
 </div>
 
-<div>
-  <span style="font-family: 'trebuchet ms', geneva"><br /> </span>
-</div>
 
-<div>
-  <span style="font-family: 'trebuchet ms', geneva"> </span>
-</div>
+Como existe la posibilidad que alguien no sepa como participar ( como yo no sabía por ejemplo )   aquí van los pasos:
 
-<div>
-  <div>
-    <span style="font-family: 'trebuchet ms', geneva">Como existe la posibilidad que alguien no sepa como participar ( como yo no sabía por ejemplo )   aquí van los pasos:</span>
-  </div>
-  
-  <div>
-    <span style="font-family: 'trebuchet ms', geneva"><br /> </span>
-  </div>
-  
-  <div>
-    <span style="font-family: 'trebuchet ms', geneva"><br /> </span>
-  </div>
-</div>
+- El artículo debe de ser escrito aquí mismo en <a href="http://artesanos.de/software">Artesanos.de/Software</a>
+- Para ello es necesario crear una cuenta:
+  <img src="http://i.stack.imgur.com/cm8GN.png" alt="Donde dice &quot;meta&quot;  Registrase" width="372" height="227" />
+- Luego hay que entrar y  si no aparece la opción para crear un artículo hay que <em>&#8220;Contactar al administrador del sitio&#8221; </em>
+- Finalmente escribir el artículo y recordad que debe de ser licenciado como creative commons
 
-<div>
-  <ul>
-    <li>
-      <span style="font-family: 'trebuchet ms', geneva">El artículo debe de ser escrito aquí mismo en <a href="http://artesanos.de/software">Artesanos.de/Software</a></span>
-    </li>
-    <li>
-      <span style="font-family: 'trebuchet ms', geneva">Para ello es necesario crear una cuenta:</span>
-    </li>
-  </ul>
-</div>
 
-<div>
-  <div>
-    <span style="font-family: 'trebuchet ms', geneva"><img src="http://i.stack.imgur.com/cm8GN.png" alt="Donde dice &quot;meta&quot;  Registrase" width="372" height="227" /></span>
-  </div>
-  
-  <div>
-    <span style="font-family: 'trebuchet ms', geneva"><br /> </span>
-  </div>
-  
-  <div>
-    <span style="font-family: 'trebuchet ms', geneva"><br /> </span>
-  </div>
-</div>
+### Tips
 
-<div>
-  <ul>
-    <li>
-      <span style="font-family: 'trebuchet ms', geneva"> Luego hay que entrar y  si no aparece la opción para crear un artículo hay que <em>&#8220;Contactar al administrador del sitio&#8221; </em><img src="http://artesanos.de/software/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /></span>
-    </li>
-    <li>
-      <span style="font-family: 'trebuchet ms', geneva"><em> </em>Finalmente escribir el artículo y recordad que debe de ser licenciado como creative commons</span>
-    </li>
-  </ul>
-</div>
+Para escribir código se puede usar la marca
 
-<div>
-</div>
+```html
+<pre>...</pre>
+```
 
-<div>
-</div>
+ejemplo:
 
-<div>
-  <em><span style="font-family: 'trebuchet ms', geneva">Tips: </span></em>
-</div>
+```html
+<pre class="brush:groovy;">
+//Tu código
+</pre>
+```
 
-<div>
-  <p>
-    <span style="font-family: 'trebuchet ms', geneva">Para escribir código se puede usar la marca</span>
-  </p>
-  
-  <pre><span style="font-family: 'trebuchet ms', geneva">&lt;pre&gt;...&lt;/pre&gt;</span></pre>
-  
-  <p>
-    <span style="font-family: 'trebuchet ms', geneva">ejemplo:</span>
-  </p>
-</div>
+Y en lugar de groovy pon el lenguaje que ocupes. 
 
-<div>
-  <pre><span style="font-family: 'trebuchet ms', geneva">&lt;pre class="brush:groovy;"&gt;
-//Tu codigo
-&lt;/pre&gt;
+<blockquote class="twitter-tweet" data-conversation="none" lang="es"><p><a href="https://twitter.com/rodrigo_salado">@rodrigo_salado</a> <a href="https://twitter.com/OscarRyz">@oscarryz</a> usamos el tag pre:&#10;&lt;pre class=&quot;brush:groovy;&quot;&gt;&#10;//Tu codigo&#10;&lt;/pre&gt;&#10;en lugar de groovy pon el lenguaje que ocupes...</p>&mdash; neodevelop (@neodevelop) <a href="https://twitter.com/neodevelop/status/109150096763006977">septiembre 1, 2011</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Y en lugar de groovy pon el lenguaje que ocupes. <a href="https://twitter.com/#!/neodevelop/status/109150096763006977">;)</a>
 
-La referencia de "Brush" que se puede usar está en:</span></pre>
-</div>
+La referencia de "Brush" que se puede usar está en:
 
-<div>
-  <a href="http://alexgorbatchev.com/SyntaxHighlighter/manual/brushes/"><span style="font-family: 'trebuchet ms', geneva"><br /> </span></a>
-</div>
+http://alexgorbatchev.com/SyntaxHighlighter/manual/brushes/
 
-<div>
-  <a href="http://alexgorbatchev.com/SyntaxHighlighter/manual/brushes/"><span style="font-family: 'trebuchet ms', geneva">http://alexgorbatchev.com/SyntaxHighlighter/manual/brushes/</span></a>
-</div>
+Y listo!  ya estarán participando
 
-<div>
-  <span style="font-family: 'trebuchet ms', geneva"><br /> </span>
-</div>
 
-<div>
-  <span style="font-family: 'trebuchet ms', geneva">Y listo!  ya estarán participando</span>
-</div>
+Escrito por: Oscar Reyes ( <a href="http://twitter.com/#!/oscarryz">@OscarRyz</a> )
 
-<div>
-</div>
+<span style="font-family: 'trebuchet ms', geneva"><a href="http://creativecommons.org/licenses/by/3.0/"><img src="http://i.creativecommons.org/l/by/3.0/80x15.png" alt="" width="80" height="15" /></a></span>
 
-<div>
-  ========================
-</div>
 
-<div>
-</div>
-
-<div>
-  <span style="font-family: 'trebuchet ms', geneva">Escrito por: Oscar Reyes ( <a href="http://twitter.com/#!/oscarryz">@OscarRyz</a> ) </span>
-</div>
-
-<div>
-</div>
-
-<div>
-  <span style="font-family: 'trebuchet ms', geneva"><a href="http://creativecommons.org/licenses/by/3.0/"><img src="http://i.creativecommons.org/l/by/3.0/80x15.png" alt="" width="80" height="15" /></a></span>
-</div>
-
-<div id="wp_fb_like_button" style="margin:5px 0;float:none;height:100px;">
-  <fb:like href="http://artesanos.de/software/2011/09/01/meta-informacion-gana-y-aprende-con-artesanos-de-software-how-to/" send="false" layout="like" width="450" show_faces="true" font="arial" action="" colorscheme="light"></fb:like>
-</div>
+[1]: http://artesanos.de/software/2011/08/09/gana-y-aprende-con-artesanos-de-software

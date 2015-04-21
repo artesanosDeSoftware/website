@@ -5,7 +5,7 @@ layout: post
 date: 2011-10-04
 url: /2011/10/04/tareas-vs-hilos-en-c-3/
 categories:
-  - Sin categoría
+  - article
 tags:
   - 'c#'
   - concurrencia
