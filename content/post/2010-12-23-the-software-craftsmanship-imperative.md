@@ -1,6 +1,6 @@
 ---
 title: The Software Craftsmanship Imperative
-author: Domingo Suarez Torres
+author: domix
 layout: post
 date: 2010-12-23
 url: /2010/12/23/the-software-craftsmanship-imperative/
