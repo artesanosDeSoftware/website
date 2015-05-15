@@ -1,5 +1,5 @@
 ---
-title: Ser un buen tester....
+title: Ser un buen tester...
 author: neodevelop
 layout: post
 date: 2015-04-17
