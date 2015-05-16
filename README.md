@@ -1,5 +1,7 @@
 # Artesanos de Software
 
+[![Build Status](http://jenkins.artesanos.de/buildStatus/icon?job=artesanos.de-website-deploy)](http://jenkins.artesanos.de/job/artesanos.de-website-deploy/)
+
 Este es el código fuente del sitio de [Artesanos de Software][4]. Antes usábamos Wordpress pero se convirtió en un problema cuando recibimos muchos ataques y mantener un CMS fue un problema que no queríamos tener.
 
 Ahora el sitio de construye con [Hugo][1] que realmente necesita archivos [Markdown][3] y la definición de plantillas para generar un sitio estático.
