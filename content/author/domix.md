@@ -9,6 +9,10 @@ title: Domingo Suárez Torres
 
 Soy un ingeniero de software basado en la Ciudad de México.
 
+<iframe src="http://githubbadge.appspot.com/domix?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+
+<br/>
+
 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
 <script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/domix" data-format="inline"></script>
 
