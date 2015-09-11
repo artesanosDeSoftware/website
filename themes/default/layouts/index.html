@@ -1,5 +1,5 @@
 {{ partial "head.html" . }}
-{{ $baseUrl := .Site.BaseUrl }}
+{{ $baseUrl := .Site.BaseURL }}
 <div class="content container">
   <div class="posts">
     {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
