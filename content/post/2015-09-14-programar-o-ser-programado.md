@@ -2,8 +2,8 @@
 author: domix
 categories:
 - Video
-date: 2015-09-14T10:37:34-05:00
-url: /2015/09/14/programar-o-ser-programado/
+date: 2015-09-15T10:37:34-05:00
+url: /2015/09/15/programar-o-ser-programado/
 layout: post
 tags:
   - Video
