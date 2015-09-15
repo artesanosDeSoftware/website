@@ -29,11 +29,13 @@ Creo que la intención es buena, la idea de aprender a programar, creo que la ge
 
 Por otro lado, creo valioso que la gente tenga un conocimiento general sobre cómo se diseñan aplicaciones, ya que muchos de ellos en algún punto de su vida profesional o personal, podrían verse involucrados en el diseño o automatización de un proceso cercano a su vida.
 
-Entonces las preguntas que quedan es: 
+Entonces algunas de las preguntas que quedan son: 
 
 * ¿Todos deberían tomar clases de programación?
 * ¿O tal vez sobre cultura general de diseño/construcción de aplicaciones?
-* ¿Los gobiernos deben tomar esto como estrategía de crecimiento?
+* ¿Los gobiernos deben tomar esto como estrategía de crecimiento/desarrollo?
+
+Sin duda algo en que vale la pena pensar.
 
 
 [1]: http://code.org
